@@ -1,0 +1,11 @@
+{
+  "name": "KopiSpace",
+  "description": "An All-in-One cafe-vibes productivity workspace (Notion-style) with Persona 3 aesthetic, Pomodoro, Kanban, Todo & Habit, Money Management, Contacts, and Web Audio SFX/BGM.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
