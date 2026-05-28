@@ -1,6 +1,5 @@
 # [Nama Aplikasi Produktivitas Anda]
 
-[![Framework](https://img.shields.io/badge/Framework-Laravel_11-red.svg)](https://laravel.com)
 [![CSS](https://img.shields.io/badge/CSS-Tailwind_CSS-blue.svg)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -32,7 +31,7 @@ Aplikasi manajemen produktivitas modern yang dirancang untuk membantu pengguna m
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal (*development*) Anda:
 
 ### Prasyarat
-Pastikan Anda sudah menginstal **PHP >= 8.2**, **Composer**, dan **Node.js** di perangkat Anda.
+Pastikan Anda sudah menginstal **NPM**, dan **Node.js** di perangkat Anda.
 
 ### Langkah-Langkah
 
@@ -40,3 +39,4 @@ Pastikan Anda sudah menginstal **PHP >= 8.2**, **Composer**, dan **Node.js** di 
 ```bash
    git clone [https://github.com/username/nama-repo-anda.git](https://github.com/username/nama-repo-anda.git)
    cd nama-repo-anda
+   
