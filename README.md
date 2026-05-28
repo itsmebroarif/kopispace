@@ -4,7 +4,7 @@
 
 ### *"Flow Faster. Focus Harder. Live Softer."*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1wYmJtN2FvN2l6bTZ5dHFwdTV6dnB4dzl4Z2JlcmQ0cDZtbG1mNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+<p align="center"> <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/persona5-joker.gif" width="100%" /> </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge\&logo=typescript)
